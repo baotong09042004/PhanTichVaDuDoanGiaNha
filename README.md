@@ -7,6 +7,7 @@
     Đặc trưng gồm: gia,dienTich,giaMoiM2,soPhongNgu,soWC,phuong,quan
 
 ## 📁 Cấu trúc thư mục
+
 house_price_analysis_and_prediction/
 │
 |── api/
@@ -24,4 +25,3 @@ house_price_analysis_and_prediction/
 │
 └── README.md
 └── requirements.txt
-##
