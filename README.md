@@ -11,6 +11,7 @@ Dữ liệu được cào từ website **Batdongsan.com.vn** thông qua thư vi�
 ---
 
 ## 📁 Cấu trúc thư mục
+```
 house_price_analysis_and_prediction/
 │
 ├── api/
@@ -30,4 +31,5 @@ house_price_analysis_and_prediction/
 │
 ├── README.md
 └── requirements.txt
+```
 
